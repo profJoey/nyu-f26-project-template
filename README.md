@@ -11,7 +11,7 @@ This creates a brand new repository under your own GitHub account, pre-loaded wi
 
 Use this naming convention:
 
-`touro-f26-lastname-firstname`
+`nyu-f26-lastname-firstname`
 
 **3\. Click "Create repository from template"**
 
